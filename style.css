@@ -95,7 +95,7 @@ body {
 .fullscreen-bg{
   width: 100vw;
   height: 120vh;
-  background-image: url('PMHMAIN1.jpg"');
+  background-image: url("PMHMAIN1.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -106,3 +106,4 @@ body {
     padding: 0;
 
 }
+
