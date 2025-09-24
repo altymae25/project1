@@ -22,7 +22,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;  /* optional: add spacing inside */
-    border: double rgb(185, 119, 19) 4px;
+    border: double gray 4px;
     background-color: black;
     
 }
@@ -106,4 +106,5 @@ body {
     padding: 0;
 
 }
+
 
