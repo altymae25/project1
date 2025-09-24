@@ -95,7 +95,7 @@ body {
 .fullscreen-bg{
   width: 100vw;
   height: 120vh;
-  background-image: url('file:///C:/Users/ymae2/Desktop/HTML%20COURSE/Image/PMHMAIN1.jpg"');
+  background-image: url('PMHMAIN1.jpg"');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -104,4 +104,5 @@ body {
 .fmsg{
     margin: 25px 50px 75px;
     padding: 0;
+
 }
